@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f25fe08d-b97a-472a-8cd6-ae9c20cc0cde" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/es/api/ClientFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/es/api/EsCommon.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/es/api/EsNodeClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/es/api/TransportClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/es/api/EsCommon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/es/api/EsCommon.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +18,19 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/yingang" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -72,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589693062155</updated>
-      <workItem from="1589693067855" duration="3016000" />
+      <workItem from="1589693067855" duration="5691000" />
     </task>
     <servers />
   </component>
